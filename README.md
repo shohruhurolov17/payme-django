@@ -1,1 +1,1 @@
-# payme-django
+# Payme django integration
